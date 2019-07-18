@@ -1,0 +1,3 @@
+nvmlib.o
+Test/Regular/nvmlib_test.exe
+Test/OID/nvmlib_test_oid.exe
